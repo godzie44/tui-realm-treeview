@@ -1,10 +1,10 @@
 [package]
-name = "tui-realm-treeview"
-version = "1.2.0"
-authors = ["Christian Visintin"]
+name = "godzie44-tui-realm-treeview"
+version = "1.0.0"
+authors = ["Christian Visintin", "Konstantin Derevtsov"]
 edition = "2021"
 categories = ["command-line-utilities"]
-description = "Treeview component for tui-realm"
+description = "Treeview component for tui-realm (WARN, this is a temporart fork)"
 documentation = "https://docs.rs/tui-realm-treeview"
 homepage = "https://github.com/veeso/tui-realm-treeview"
 include = ["src/**/*", "LICENSE", "README.md", "CHANGELOG.md"]
